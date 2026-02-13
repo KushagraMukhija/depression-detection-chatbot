@@ -1,0 +1,21 @@
+--- Results for distilbert-base-uncased ---
+Test Accuracy: 97.77%
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Depressed       0.97      0.99      0.98       941
+    Depressed       0.99      0.97      0.98       943
+
+     accuracy                           0.98      1884
+    macro avg       0.98      0.98      0.98      1884
+ weighted avg       0.98      0.98      0.98      1884
+
+
+--- Saving model to ./saved_model_v2 ---
+--- Model and tokenizer saved successfully! ---
+
+--- Generating training plot ---
+--- Plot saved to training_plot_v2.png ---
+
+--- Script Finished ---
