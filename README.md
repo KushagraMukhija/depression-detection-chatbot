@@ -72,7 +72,7 @@ depression-detection-chatbot-main/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/KushagraMukhija/depression-detection-chatbot
 cd depression-detection-chatbot-main
 ```
 
